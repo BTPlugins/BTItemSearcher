@@ -15,7 +15,7 @@ Hate when you have messy lockers and trying to find that one item? Punch any loc
 <br />
 
 ## Get the Plugin Here
-- https://github.com/BTPlugins/BTDuty/releases/tag/Release
+- https://github.com/BTPlugins/BTItemSearcher/releases/tag/Release
 
 ## Discord Support: 
 - https://discord.gg/YsaXwBSTSm
